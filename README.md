@@ -3,7 +3,8 @@
 
 日常脚本
 gujiwork@outlook.com
-友情注释：python小白学习者，大神勿喷^v^
+友情注释：python小白学习者，大神勿喷^V^
+
 脚本说明：
 
 1、moitor_log.py
